@@ -1,5 +1,10 @@
 # KickStart My Chart
 
+## Instructions
+
+* Open [StarterBook_Solved_JSC.xlsx] to view the raw data and summary charts on each tab
+* Open [Unit_1_Summary_JSC.docx] to view the report summarizing observed trends
+
 ## Background
 
 * Organizing and analyzing a database of four thousand past Kickstarter projects to uncover any hidden trends.
